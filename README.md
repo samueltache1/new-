@@ -12,11 +12,6 @@ Run interactively:
 python -m soil_analyzer.cli --interactive
 ```
 
-Analyze a CSV file:
-
-```bash
-python -m soil_analyzer.cli analyze-csv samples.csv
-```
 
 ## Tests
 

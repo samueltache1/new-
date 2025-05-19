@@ -9,11 +9,4 @@ Run interactively:
 
 ```bash
 
-
-## Tests
-
-Execute unit tests with:
-
-```bash
-python -m unittest discover -s soil_analyzer/tests
 ```

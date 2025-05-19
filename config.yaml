@@ -1,0 +1,4 @@
+ideal_ph: [6.0, 7.0]
+om_thresholds:
+  low: 3.0
+  high: 6.0

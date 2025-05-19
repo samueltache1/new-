@@ -1,10 +1,4 @@
 
-
-
-def classify_ph(pH: float) -> str:
-    if pH < IDEAL_PH_RANGE[0]:
-        return 'acidic'
-    if pH > IDEAL_PH_RANGE[1]:
         return 'alkaline'
     return 'optimal'
 

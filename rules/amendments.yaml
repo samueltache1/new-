@@ -1,0 +1,4 @@
+- condition: "sample['pH'] < 5.5"
+  message: "apply lime or wood ash to raise pH"
+- condition: "sample['organic_matter'] < 3"
+  message: "add compost or manure to increase organic matter"

@@ -12,12 +12,6 @@ Run interactively:
 python -m soil_analyzer.cli --interactive
 ```
 
-## Packaging
-
-The project is configured with a `pyproject.toml` for modern packaging.
-Dependencies include `click`, `pandas`, `scikit-learn` and `PyYAML`.
-Python 3.10 or newer is required.
-
 ## Tests
 
 Execute unit tests with:
